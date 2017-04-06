@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\AndroidWorkspaces\\Practice\\StackoverflowCheck\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 42,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "D:\\AndroidWorkspaces\\Practice\\StackoverflowCheck\\SlidingMenu\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\AndroidWorkspaces\\new\\StackoverflowCheck\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {

@@ -4,6 +4,10 @@
         "source": "D:\\AndroidWorkspaces\\new\\StackoverflowCheck\\SlidingMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
     },
     {
+        "merged": "D:\\AndroidWorkspaces\\Practice\\StackoverflowCheck\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidWorkspaces\\Practice\\StackoverflowCheck\\SlidingMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
         "merged": "D:\\AndroidWorkspaces\\vl_studio_ws\\Synnex\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
         "source": "D:\\AndroidWorkspaces\\vl_studio_ws\\Synnex\\SlidingMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
     }
