@@ -100,6 +100,7 @@ public class FourthTab extends Fragment implements AdapterView.OnItemSelectedLis
         categories.add("Education");
         categories.add("Personal");
         categories.add("Travel");
+        //Fourth spinner
 
         // Creating adapter for spinner
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(getActivity().getBaseContext(), android.R.layout.simple_spinner_item, categories);
