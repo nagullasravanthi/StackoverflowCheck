@@ -46,4 +46,41 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/input_name" />
+
+    <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        android:id="@+id/search_spinner"
+        android:layout_width="match_parent"
+        android:layout_below="@id/input_name"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+
+
+
+    <Button
+        android:layout_below="@id/search_spinner"
+        android:text="-"
+        android:id="@+id/button1"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_shape"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+    <Button
+        android:text="+"
+        android:layout_below="@id/search_spinner"
+        android:id="@+id/button2"
+        android:background="@drawable/innershape"
+        android:layout_marginLeft="-10dp"
+        android:textColor="#ffffff"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@+id/button1" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/img"
+        android:src="@drawable/common_ic_googleplayservices"
+        android:layout_below="@id/button1"/>
+
 </RelativeLayout>
